@@ -1,1 +1,22 @@
+# Maven output directory
+target/
+out/
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+
+# IDEA IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS X generated files
+.DS_Store
+
+# Grails
+web-app/plugins/
+web-app/WEB-INF/classes/
  
