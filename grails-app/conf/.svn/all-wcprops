@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/questionnaire/!svn/ver/1/grails-app/conf
+END
+DataSource.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/questionnaire/!svn/ver/1/grails-app/conf/DataSource.groovy
+END
+UrlMappings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/questionnaire/!svn/ver/3/grails-app/conf/UrlMappings.groovy
+END
+Config.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/questionnaire/!svn/ver/7/grails-app/conf/Config.groovy
+END
+BuildConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/questionnaire/!svn/ver/1/grails-app/conf/BuildConfig.groovy
+END
+BootStrap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/questionnaire/!svn/ver/1/grails-app/conf/BootStrap.groovy
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts
+END
+_footer.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/_footer.gsp
+END
+_header.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/_header.gsp
+END
+admin.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/admin.gsp
+END
+_head.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/_head.gsp
+END
+ajax.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/ajax.gsp
+END
+blank.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/blank.gsp
+END
+space.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/space.gsp
+END
+space_0.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/space_0.gsp
+END
+main.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/questionnaire/!svn/ver/1/grails-app/views/layouts/main.gsp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/questionnaire/!svn/ver/2/grails-app/controllers/account
+END
+LogoutController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/questionnaire/!svn/ver/1/grails-app/controllers/account/LogoutController.groovy
+END
+LoginController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/questionnaire/!svn/ver/1/grails-app/controllers/account/LoginController.groovy
+END
+InformController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/questionnaire/!svn/ver/5/grails-app/controllers/account/InformController.groovy
+END
+ProfileController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/questionnaire/!svn/ver/1/grails-app/controllers/account/ProfileController.groovy
+END
+ManageController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/questionnaire/!svn/ver/1/grails-app/controllers/account/ManageController.groovy
+END
+RegisterController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/questionnaire/!svn/ver/7/grails-app/controllers/account/RegisterController.groovy
+END

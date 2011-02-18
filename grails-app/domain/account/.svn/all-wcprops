@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/questionnaire/!svn/ver/1/grails-app/domain/account
+END
+User.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/questionnaire/!svn/ver/4/grails-app/domain/account/User.groovy
+END
+Role.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/questionnaire/!svn/ver/1/grails-app/domain/account/Role.groovy
+END
+UserRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/questionnaire/!svn/ver/1/grails-app/domain/account/UserRole.groovy
+END
